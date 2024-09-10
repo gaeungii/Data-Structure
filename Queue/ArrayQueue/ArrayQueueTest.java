@@ -9,14 +9,16 @@ public class ArrayQueueTest {
 		queue.push(2);
 		queue.push(3);
 		queue.push(4);
+		System.out.print("Queue : ");
 		queue.printQueue();
 		
 		queue.pop();
 		queue.pop();
 		queue.push(6);
+		System.out.print("Queue : ");
 		queue.printQueue();
 		
-		System.out.println(queue.peek());
+		System.out.println("Peek : " + queue.peek());
 		
 	}
 
