@@ -8,16 +8,20 @@ public class LinkedListStackTest {
         stack.push(10);
         stack.push(20);
         stack.push(30);
-        
+       
+	System.out.print("Stack : ");
         stack.printStack();  
         
         stack.pop(); 
-        stack.printStack();  
+        System.out.print("Stack : ");
+	stack.printStack();  
         
         stack.pop();
-        stack.printStack();  
+        System.out.print("Stack : ");
+	stack.printStack();  
         
-        stack.pop();  
+        stack.pop();
+	System.out.print("Stack : ");
         stack.printStack();  
     
 	}
