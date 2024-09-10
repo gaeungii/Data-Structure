@@ -13,7 +13,7 @@ public class ArrayStackTest {
 		System.out.print("Stack : ");
 		myStack.printStack();
 				
-		System.out.print("Peek : " + myStack.peek());
+		System.out.println("Peek : " + myStack.peek());
 		
 		myStack.pop();
 		myStack.pop();
