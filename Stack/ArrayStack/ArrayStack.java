@@ -40,10 +40,12 @@ public class ArrayStack {
 	}
 	public void printStack() {
 		if (IsEmpty()) {
-            System.out.println("Stack is empty");
-            return;
-        }
+			System.out.println("Stack is empty");
+			return;
+		}
 		for(int i = 0; i<= top;i++)
 			System.out.print(stack[i]+" ");
+		System.out.println();
 	}
+	
 }
