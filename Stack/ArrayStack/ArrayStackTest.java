@@ -9,15 +9,15 @@ public class ArrayStackTest {
 		myStack.push(6);
 		myStack.push(7);
 		myStack.push(8);
-		
+
+		System.out.print("Stack : ");
 		myStack.printStack();
-		System.out.println("\n************");
-		
-		System.out.print(myStack.peek());
-		System.out.println("\n************");
+				
+		System.out.print("Peek : " + myStack.peek());
 		
 		myStack.pop();
 		myStack.pop();
+		System.out.print("Stack : ");
 		myStack.printStack();
 	}
 
