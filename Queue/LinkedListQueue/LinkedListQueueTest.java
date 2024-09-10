@@ -6,15 +6,17 @@ public class LinkedListQueueTest {
 		LinkedListQueue queue = new LinkedListQueue();
 		
 		queue.enqueue(10);
-	    queue.enqueue(20);
-	    queue.enqueue(30);	    
-	    queue.printQueue();
+	        queue.enqueue(20);
+	        queue.enqueue(30);
+		System.out.print("Queue : ");
+	        queue.printQueue();
 
-	    System.out.println("Peek: " + queue.peek());
+	        System.out.println("Peek: " + queue.peek());
 
-	    queue.dequeue();
-	    queue.printQueue();
-	    System.out.println("Peek: " + queue.peek());
+	        queue.dequeue();
+		System.out.print("Queue : ");
+	        queue.printQueue();
+	        System.out.println("Peek: " + queue.peek());
 
 	}
 
