@@ -40,10 +40,10 @@ public class Array {
 		}
 		cnt--;
 	}
-	public boolean isEmpty() {
+	public boolean isEmpty() {    // 배열이 비었는지 확인
 		return cnt == 0;
 	}
-	public void printArray() {
+	public void printArray() {    // 배열 용소 출력
 		for(int i = 0; i< cnt;i++)
 			System.out.print(arr[i]+" ");
 		System.out.println();
