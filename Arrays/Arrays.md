@@ -1,5 +1,7 @@
 # 배열(Arrays)
 ## 1. 배열의 정의
+![image](https://github.com/user-attachments/assets/920d973f-dbb8-46c1-a3ca-2af9c1df210d)
+
 배열이란 동일한 타입의 데이터들이 연속적인 메모리 공간에 순차적으로 할당되는 선형 자료구조이다.
 ## 2. 배열의 특성
 * 배열은 동일한 데이터 타입을 가진다.
