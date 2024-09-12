@@ -1,4 +1,4 @@
-![KakaoTalk_20240912_212923709](https://github.com/user-attachments/assets/e72fbf8d-cd24-476e-a3ca-423343491f51)# 스택
+# 스택
 ## 1. 스택의 정의
 * 삽입과 삭제가 한쪽 끝 지점에서 발생하는 순서화 리스트이다.
 * 후입선출(Last-In-First-Out, LIFO)
