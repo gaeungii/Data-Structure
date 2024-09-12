@@ -3,7 +3,7 @@
 * [개념정리](/Arrays/Arrays.md)
 * [구현](/Arrays/)
 ## 스택
-* [개념정리]()
+* [개념정리](/Stack/Stack.md)
 * [구현](/Stack/)
 ## 큐
 * [개념정리]()
