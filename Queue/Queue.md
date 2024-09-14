@@ -1,7 +1,8 @@
 # 큐
 ## 1. 큐의 정의
 
-![image](https://github.com/user-attachments/assets/8412cbc0-e46d-4b89-894f-d010c93909fb)
+![KakaoTalk_20240914_172527411](https://github.com/user-attachments/assets/9172a68a-ef9f-4b09-ab82-d7d2f7702d38)
+
 
 * 삽입과 삭제가 다른 쪽에서 발생하는 순서화 리스트
   ** 삽입이 발생하는 위치 : rear
